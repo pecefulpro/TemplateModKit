@@ -2,7 +2,7 @@
 
 Costume alts are easier to add than regular mods
 
-## Adding 1 costume alts 
+## Adding a costume 
 
 1. Open OneCostume.cv
 1. Remove the information in the file and add your own

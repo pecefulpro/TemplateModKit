@@ -9,6 +9,7 @@
 		"GUID":"",				
 		"Image":true,		//If your mod will have a image preview
 		"displayName":"", 	//Name that will be shown in the game preview
-		"fileName":""		//ex. Blue_BattleField.ssf
+		"fileName":"",		//ex. Blue_BattleField.ssf
+		"description": "",
 	}
 }

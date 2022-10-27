@@ -11,6 +11,9 @@ The Template Mod Kit gives you the correct formant to be used for the [Mod Cente
 3. Fill out the config.json file with the correct Information.
 5. Your mod is now ready to be distributed. 
 
+> **Note**
+Currently Costume Alts do **not** need a \src and \data folder
+
 ## Distributing your mods
 
 There are 2 main ways of sharing your mod pack and that's through manually sharing it or uploading it to the SSF2 [Mod Center](https://github.com/pecefulpro/SSF2-MC). 
